@@ -51,7 +51,9 @@ const Useeffect = () => {
   return (
     <div>
         {state}
+        <br/>
         <button onClick={()=>setState((e)=>e+1)}>Click</button>
+        <br/>
         {incr}
     </div>
   )
