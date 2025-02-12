@@ -1,0 +1,15 @@
+table{
+    border: 2px solid rgb(18, 18, 18);
+    
+    
+
+}
+th,td{
+    border: 2px solid rgb(3, 3, 3);
+}
+
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+}
